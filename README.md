@@ -2,7 +2,7 @@
 Azure ai speech
 Meu Aprendizado com Inteligência Artificial - Azure e DIO 🚀
 Olá!
-Meu nome é Breno Vieira Sapucaia e estou em processo de aprendizado contínuo através dos cursos da DIO (Digital Innovation One). Um dos temas que mais têm despertado meu interesse é a Inteligência Artificial, principalmente utilizando os recursos disponibilizados pela Azure AI.
+Meu nome é Breno Vieira Sapucaia e estou em processo de aprendizado contínuo através dos cursos da DIO . Um dos temas que mais têm despertado meu interesse é a Inteligência Artificial, principalmente utilizando os recursos disponibilizados pela Azure AI.
 
 🔍 O que estou aprendendo:
 Transcrição de áudio em tempo real e rápida.
